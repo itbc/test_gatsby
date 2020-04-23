@@ -620,3 +620,9 @@ pre tt:after {
     font-size: 100%;
   }
 }
+.sample {
+  margin-right:20px;
+}
+.div_margin{
+  margin-bottom:100px;
+}
